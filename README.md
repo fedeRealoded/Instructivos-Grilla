@@ -3,8 +3,8 @@
 ![image](https://github.com/user-attachments/assets/4ed1c7cf-fc87-4a27-829c-ff99771edc5f)
 
 📺 Actualización del decodificador Colsecor Digital (modelo con luz azul frontal)
-1️⃣ Con el control remoto, accede al Menú.
 
+1️⃣ Con el control remoto, accede al Menú.
 2️⃣ Ve a Configuración del Sistema y presiona OK.
 3️⃣ Selecciona Restaurar Configuración de Fábrica y confirma con OK.
 4️⃣ Ingresa el PIN: 1111 y presiona OK.
