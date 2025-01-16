@@ -42,6 +42,7 @@
 	•	QAM: 256
  
 6️⃣ Presiona EXIT > selecciona SÍ > presiona OK.
+
 7️⃣ Selecciona Autobúsqueda > presiona OK.
 	•	Si aparece el mensaje para eliminar canales, selecciona SÍ.
  
