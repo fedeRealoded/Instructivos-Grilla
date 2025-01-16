@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8228f566-478e-41b0-b733-1997b4818b5d)# Instructivos-Grilla
+# Instructivos-Grilla
 
 ![image](https://github.com/user-attachments/assets/4ed1c7cf-fc87-4a27-829c-ff99771edc5f)
 
