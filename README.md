@@ -5,12 +5,19 @@
 📺 Actualización del decodificador Colsecor Digital (modelo con luz azul frontal)
 
 1️⃣ Con el control remoto, accede al Menú.
+
 2️⃣ Ve a Configuración del Sistema y presiona OK.
+
 3️⃣ Selecciona Restaurar Configuración de Fábrica y confirma con OK.
+
 4️⃣ Ingresa el PIN: 1111 y presiona OK.
+
 5️⃣ 🕒 Espera a que el deco se reinicie y aparezca el mensaje "Primera Instalación".
+
 6️⃣ 🌐 Selecciona el idioma: Español.
+
 7️⃣ 🔍 El deco buscará canales. Espera hasta que encuentre 142 o más canales. Luego, guarda los cambios.
+
 8️⃣ ✅ ¡Tu deco ya está configurado con la nueva programación!
 
 
