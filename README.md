@@ -26,19 +26,27 @@
 
 
 📺 Actualización de decodificador Colsecor Digital (modelo con digitos frontales)
+
 1️⃣ Aparecerá el mensaje: “Débil o ninguna señal”.
+
 2️⃣ Con el control remoto:
 	•	Pulsa MENÚ > selecciona INSTALACIÓN > presiona OK.
+ 
 3️⃣ Ingresa el PIN: 0000 (4 ceros).
+
 4️⃣ Selecciona Buscar > elige Frecuencia Principal > presiona OK.
+
 5️⃣ Configura:
 	•	Frecuencia: 249
 	•	Tasa de símbolos: 5361
 	•	QAM: 256
+ 
 6️⃣ Presiona EXIT > selecciona SÍ > presiona OK.
 7️⃣ Selecciona Autobúsqueda > presiona OK.
 	•	Si aparece el mensaje para eliminar canales, selecciona SÍ.
+ 
 8️⃣ El deco escaneará canales hasta encontrar 142 o más. Al finalizar, aparecerá el canal 1 en la pantalla.
+
 9️⃣ ⚠️ Si el deco se queda tildado o no carga los 142 canales:
 	•	Repite los pasos del 2 al 7 hasta que se cargue correctamente.
 
