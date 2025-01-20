@@ -22,6 +22,25 @@ https://federealoded.github.io/Instructivos-Grilla/
 
 8️⃣ ✅ ¡Tu deco ya está configurado con la nueva programación!
 
+ATENCION: Si tu Deco da como resultado Error , seguir este procedimiento
+
+	1️⃣ Presione Ok luego de la pantalla de error.
+	
+	2️⃣ Seleccione Borrar y presione OK.
+	
+	3️⃣ Presione dos veces la tecla menú y diríjase a instalación de canal
+	
+	4️⃣ Ingresa el PIN: 1111 y presiona OK.
+	
+	5️⃣ Configura:
+		•	Frecuencia: 373  
+		•	Tasa de símbolos: 5361
+		•	QAM: 256
+	 
+	6️⃣ 🔍 El deco buscará canales. Espera hasta que encuentre 142 o más canales. Luego, guarda los cambios.
+	
+	9️⃣ ✅ ¡Tu deco ya está configurado con la nueva programación!
+
 
 ---------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/56f3e62b-03d3-40f7-9c4e-c4bf07c30ec0)
@@ -39,7 +58,7 @@ https://federealoded.github.io/Instructivos-Grilla/
 4️⃣ Selecciona Buscar > elige Frecuencia Principal > presiona OK.
 
 5️⃣ Configura:
-	•	Frecuencia: 249
+	•	Frecuencia: 373
 	•	Tasa de símbolos: 5361
 	•	QAM: 256
  
